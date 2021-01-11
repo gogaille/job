@@ -44,7 +44,7 @@ Nous introduisons la technologie là où elle n'existait pas encore. Bien souven
 
 - :art: Composants en [React](https://fr.reactjs.org/) et [Typescript](https://www.typescriptlang.org/).
 - :framed_picture: Bibliothèque de composants partagés réalisée en CSS-in-JS (via [styled-components](https://styled-components.com/)) avec l'aide de [storybook](https://storybook.js.org/)
-- :wrench: [Nextjs](https://nextjs.org/) pour propulser notre contenu.
+- :wrench: [Next.js](https://nextjs.org/) pour propulser notre contenu.
 - :cloud: Hébergement sur [Vercel](https://vercel.com/).
 - :zap: Utilisation de [SSG](https://vercel.com/blog/nextjs-server-side-rendering-vs-static-generation).
 - :trophy: [Jest](https://jestjs.io/), [react testing library](https://testing-library.com/) et [cypress](https://www.cypress.io/) pour les tests.
