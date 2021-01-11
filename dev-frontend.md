@@ -73,10 +73,6 @@ Nous introduisons la technologie là où elle n'existait pas encore. Bien souven
 - :octocat: Intégration et déploiement continu via [github actions](https://github.com/features/actions).
 - :nerd_face: [Code review](https://github.com/features/code-review/) systématique via [pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
 
-**Architecture**
-
-- Beaucoup d'inspiration du [DDD](https://fr.wikipedia.org/wiki/Conception_pilot%C3%A9e_par_le_domaine), [Clean Architecture](<https://fr.wikipedia.org/wiki/Architecture_hexagonale_(logiciel)>) et [CQRS](https://martinfowler.com/bliki/CQRS.html).
-
 ### Comment nous travaillons
 
 - :muscle: Agilité au coeur de nos pratiques.
