@@ -91,6 +91,13 @@ Nous introduisons la technologie là où elle n'existait pas encore. Bien souven
 - 1 développeur backend très orienté Symfony avec +15 ans d'expérience.
 - 1 développeur fullstack qui avoue préférer le javascript avec +10 ans d'expérience.
 
+## Localisation
+
+Historiquement, la majeure partie de l'équipe est à Bordeaux. 2 fondateurs sont à Paris.
+
+L'équipe tech, elle, est actuellement localisée sur Marseille mais un recrutement en télétravail est tout à fait envisageable.
+
+Il resterait sympa cependant de pouvoir nous rencontrer de temps en temps en vrai ! Pour parler boulot et autre.
 
 ## Profil recherché
 
