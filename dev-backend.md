@@ -103,7 +103,7 @@ Nous introduisons la technologie là où elle n'existait pas encore. Bien souven
 - Salaire : entre 40k€ et 45k€
 
 
-## Tes missions
+## Ton quotidien
 
 ### Analyse
 
