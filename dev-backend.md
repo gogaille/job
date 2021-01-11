@@ -21,9 +21,9 @@ Nous recherchons une personne qui désire : 
 - Un environnement de travail convivial au sein d’une structure jeune et dynamique.  
 
 
-## :mag: Descriptif du poste
+## Descriptif du poste
 
-### :family: Notre mission
+### :mag: Notre mission
 
 Nous introduisons la technologie là où elle n'existait pas encore. Bien souvent, cela permet :
   1. De déléguer des tâches aux utilisateurs finaux. Ils ont plus d'autonomie contre un peu plus de responsabilité.
