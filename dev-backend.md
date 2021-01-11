@@ -23,7 +23,7 @@ Nous recherchons une personne qui désire : 
 
 ## :mag: Descriptif du poste
 
-### :familiy: Notre mission
+### :family: Notre mission
 
 Nous introduisons la technologie là où elle n'existait pas encore. Bien souvent, cela permet :
   1. De déléguer des tâches aux utilisateurs finaux. Ils ont plus d'autonomie contre un peu plus de responsabilité.
