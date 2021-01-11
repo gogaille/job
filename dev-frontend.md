@@ -34,7 +34,7 @@ Nous introduisons la technologie là où elle n'existait pas encore. Bien souven
 
 ### :shipit: Ta mission : développer l'interface home-machine d'un système de gestion d'hôtel connecté
 
-- Construire des interfaces inoventent sur mesure en collaboration une équipe de designer.
+- Construire des interfaces innovantes sur mesure en collaboration avec une équipe de designer.
 - Interconnecter diverses technologies tierces pour produire de nouveaux usages.
 - Challenger sans cesse la plateforme, niveau produit, architecture ou expérience utilisateur.
 
