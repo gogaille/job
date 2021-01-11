@@ -1,24 +1,27 @@
 # Développeur backend
 
+
+**[:love_letter: Je postule !](mailto:tech-job@french-hospitality.fr?subject=je%20souhaite%20être%20votre%20prochain%20développeur%20backend%20!&body=Bonjour,%0A%0Aje%20m%27appelle%20%5BMonNom%5D%20et%20je%20vous%20communique%20mon%20cv%20ou%20profil%20linkedin%20%3A)**
+
 ## À propos
 
 ### :family: Qui sommes-nous ?
 
-[FRENCH HOSPITALITY](https://french-hospitality.fr/) c’est la rencontre de 5 entrepreneurs qui ont croisé leurs expertises dans l’hôtellerie et le service afin de proposer des solutions de gestion et de conseil pour des tiers dans le secteur de l’hospitalité : hébergement et métiers de bouche.  
+[FRENCH HOSPITALITY](https://french-hospitality.fr/) c’est la rencontre de 5 entrepreneurs qui ont croisé leurs expertises dans l’hôtellerie et le service afin de proposer des solutions de gestion et de conseil pour des tiers dans le secteur de l’hospitalité : hébergement et métiers de bouche. 
 
-L’entreprise en pleine croissance repense l’hospitalité traditionnelle en développant une nouvelle marque alliant convivialité et innovation dans les cœurs de ville. Ces refuges urbains, au rond-point des terroirs, sont des lieux de rencontre à l’atmosphère authentique.  
+L’entreprise en pleine croissance repense l’hospitalité traditionnelle en développant une nouvelle marque alliant convivialité et innovation dans les cœurs de ville. Ces refuges urbains, au rond-point des terroirs, sont des lieux de rencontre à l’atmosphère authentique. 
 
-Nous recherchons une personne qui désire :  
+Nous recherchons une personne qui désire : 
 
-- Développer un nouveau concept dans un environnement entrepreneurial  
-- S’engager dans un projet qui va bouleverser l’hospitalité traditionnelle  
-- Travailler et apprendre auprès de professionnels de l’hôtellerie et du service  
-  
-### :point_right: Bon à savoir  
+- Développer un nouveau concept dans un environnement entrepreneurial 
+- S’engager dans un projet qui va bouleverser l’hospitalité traditionnelle 
+- Travailler et apprendre auprès de professionnels de l’hôtellerie et du service 
+ 
+### :point_right: Bon à savoir 
 
-- La bienveillance et le défi feront partie de ton quotidien.  
-- Nous recherchons des pépites qui participeront au développement de l’entreprise et apporteront leurs compétences et créativité dans un environnement de transmission.  
-- Un environnement de travail convivial au sein d’une structure jeune et dynamique.  
+- La bienveillance et le défi feront partie de ton quotidien. 
+- Nous recherchons des pépites qui participeront au développement de l’entreprise et apporteront leurs compétences et créativité dans un environnement de transmission. 
+- Un environnement de travail convivial au sein d’une structure jeune et dynamique. 
 
 
 ## Descriptif du poste
@@ -51,10 +54,10 @@ Nous introduisons la technologie là où elle n'existait pas encore. Bien souven
 
 - :art: Composants [React](https://fr.reactjs.org/) et design system.
 - :framed_picture: [Nextjs](https://nextjs.org/) avec [Typescript](https://www.typescriptlang.org/).
-- :cloud: Hébergement sur [Vercel](https://vercel.com/). 
+- :cloud: Hébergement sur [Vercel](https://vercel.com/).
 - :zap: Utilisation de [SSG](https://vercel.com/blog/nextjs-server-side-rendering-vs-static-generation).
 - :trophy: [Jest](https://jestjs.io/) et [cypress](https://www.cypress.io/) pour les tests.
-    
+
 **Infrastructure**
 
 - :cloud: Plateforme hébergée sur [AWS](https://aws.amazon.com/fr).
@@ -63,7 +66,7 @@ Nous introduisons la technologie là où elle n'existait pas encore. Bien souven
 
 **Data**
 
-- :framed_picture: [Sanity.io](https://www.sanity.io/) comme [CMS Headless](https://en.wikipedia.org/wiki/Headless_content_management_system). 
+- :framed_picture: [Sanity.io](https://www.sanity.io/) comme [CMS Headless](https://en.wikipedia.org/wiki/Headless_content_management_system).
 - :card_file_box: [DynamoDB](https://aws.amazon.com/fr/dynamodb/) comme stockage technique.
 
 **Workflow**
@@ -85,7 +88,7 @@ Nous introduisons la technologie là où elle n'existait pas encore. Bien souven
 - :calendar: Sprint de 2 semaines avec [kanban](https://fr.wikipedia.org/wiki/Kanban).
 
 
-## L'équipe tech 
+## L'équipe tech
 
 - 1 CTO multi tâche avec +15 ans d'expérience.
 - 1 développeur backend très orienté Symfony avec +15 ans d'expérience.
@@ -127,10 +130,14 @@ Il resterait sympa cependant de pouvoir nous rencontrer de temps en temps en vra
 
 ### Livraison continue
 
-- Rendre visible en permanence ton travail afin de permettre des revues et soulever toutes question qui subsiste en cours de route.
+- Rendre visible en permanence ton travail afin de permettre des revues et soulever toute question qui subsiste en cours de route.
 - Produire quand nécessaire des copies d'écran, vidéos ou démo : montrer plutôt qu'expliquer :popcorn:.
 
 ### Qualité
 
 - Respecter et faire évoluer les processus qualité dans un principe d'amélioration continue.
 - Maintenir et faire évoluer les applications.
+
+
+**[:love_letter: Je postule !](mailto:tech-job@french-hospitality.fr?subject=je%20souhaite%20être%20votre%20prochain%20développeur%20backend%20!&body=Bonjour,%0A%0Aje%20m%27appelle%20%5BMonNom%5D%20et%20je%20vous%20communique%20mon%20cv%20ou%20profil%20linkedin%20%3A)**
+
