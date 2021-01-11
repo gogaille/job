@@ -55,7 +55,7 @@ Nous introduisons la technologie là où elle n'existait pas encore. Bien souven
 - :zap: Utilisation de [SSG](https://vercel.com/blog/nextjs-server-side-rendering-vs-static-generation).
 - :trophy: [Jest](https://jestjs.io/) et [cypress](https://www.cypress.io/) pour les tests.
     
-**Infra**
+**Infrastructure**
 
 - :cloud: Plateforme hébergée sur [AWS](https://aws.amazon.com/fr).
 - :building_construction: Provisionnée via [terraform](https://www.terraform.io/).
