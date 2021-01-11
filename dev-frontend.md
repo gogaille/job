@@ -43,8 +43,8 @@ Nous introduisons la technologie là où elle n'existait pas encore. Bien souven
 **Frontend**
 
 - :art: Composants en [React](https://fr.reactjs.org/) et [Typescript](https://www.typescriptlang.org/).
-- :framed_picture: Bibliothèque de composants partagés réalisé CSS-in-JS (via [styled-components](https://styled-components.com/)) avec l'aide de [storybook](https://storybook.js.org/)
-- :wrench: [Nextjs](https://nextjs.org/) pour propulser notre contenus.
+- :framed_picture: Bibliothèque de composants partagés réalisée en CSS-in-JS (via [styled-components](https://styled-components.com/)) avec l'aide de [storybook](https://storybook.js.org/)
+- :wrench: [Nextjs](https://nextjs.org/) pour propulser notre contenu.
 - :cloud: Hébergement sur [Vercel](https://vercel.com/).
 - :zap: Utilisation de [SSG](https://vercel.com/blog/nextjs-server-side-rendering-vs-static-generation).
 - :trophy: [Jest](https://jestjs.io/), [react testing library](https://testing-library.com/) et [cypress](https://www.cypress.io/) pour les tests.
@@ -105,8 +105,8 @@ Nous introduisons la technologie là où elle n'existait pas encore. Bien souven
 ### Analyse
 
 - Participer à l'identification des besoins métier. 
-- Accompagner notre équipes de designer pour la réalisation des interfaces graphiques.
-- Ce maintenir jour sur les dernières techniques pouvant améliorer nos produits.
+- Accompagner notre équipe de designers pour la réalisation des interfaces graphiques.
+- Se maintenir à jour sur les dernières techniques pouvant améliorer nos produits.
 
 ### Conception
 
@@ -116,7 +116,7 @@ Nous introduisons la technologie là où elle n'existait pas encore. Bien souven
 
 ### Livraison continue
 
-- Rendre visible en permanence ton travail afin de permettre des revues et soulever toutes question qui subsiste en cours de route.
+- Rendre visible en permanence ton travail afin de permettre des revues et soulever toute question qui subsiste en cours de route.
 - Produire quand nécessaire des copies d'écran, vidéos ou démo : montrer plutôt qu'expliquer :popcorn:.
 
 ### Qualité
