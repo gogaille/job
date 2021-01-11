@@ -25,9 +25,9 @@ Nous recherchons une personne qui désire : 
 
 ### Ta mission : développer un système de gestion d'hôtel connecté
 
-    - Construire un produit complet, robuste et résilient
-    - Interconnecter diverses technologie tiers pour produire de nouveaux usages
-    - Challenger sans cesse la plateforme, niveau produit ou architecture
+- Construire un produit complet, robuste et résilient
+- Interconnecter diverses technologie tiers pour produire de nouveaux usages
+- Challenger sans cesse la plateforme, niveau produit ou architecture
 
 ### Notre stack
 
