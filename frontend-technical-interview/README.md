@@ -47,6 +47,6 @@ Vous l'avez peut-être remarqué : l'application ne détecte pas les diagonales 
 
 Pour realiser ces exercices, vous devez forker le code source présent sur CodeSandbox :
 
-https://codesandbox.io/s/github/gogaille/job/tree/main/frontend-technical-interview
+https://codesandbox.io/s/tictactoe-master-f1wj6?file=/README.md
 
 Quand vous aurez terminé, il suffit de nous partager un lien de votre projet CodeSandbox (boutton "Share" bleu en haut à droite de l'interface).
