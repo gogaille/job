@@ -34,7 +34,7 @@ Nous recherchons une personne qui désire : 
 - Expérience : Peu importe tant que vous êtes à l'aise avec les points ci-dessus
 - Salaire : entre 40k€ et 45k€
 
-:triangular_flag_on_post: On ne vous demande pas de connaître tout ce qui suit mais vous voyez évoluer et progresser dedans.
+:triangular_flag_on_post: On ne vous demande pas de connaître tout ce qui suit mais vous vous voyez évoluer et progresser dedans.
 
 ## Descriptif du poste
 
@@ -141,4 +141,3 @@ Il resterait sympa cependant de pouvoir nous rencontrer de temps en temps en vra
 
 
 **[:love_letter: Je postule !](mailto:tech-job@french-hospitality.fr?subject=je%20souhaite%20être%20votre%20prochain%20développeur%20backend%20!&body=Bonjour,%0A%0Aje%20m%27appelle%20%5BMonNom%5D%20et%20je%20vous%20communique%20mon%20cv%20ou%20profil%20linkedin%20%3A)**
-
