@@ -45,9 +45,8 @@ Vous l'avez peut-être remarqué : l'application ne détecte pas les diagonales 
 
 ## Comment réaliser ces exercices
 
-Pour realiser ces exercices, vous pouvez :
-- forker le repository github et travailler sur votre version,
-- cloner le projet directement sur votre machine,
-- [lancer le projet dans CodeSandbox](https://githubbox.com/gogaille/job/blob/main/frontend-technical-interview).
+Pour realiser ces exercices, vous devez forker le code source présent sur CodeSandbox :
 
-Quand vous aurez terminé, il suffit de nous partager le code source modifié : soit un repository git, soit un lien de votre projet CodeSandbox (boutton "Share" bleu en haut à droite de l'interface).
+https://codesandbox.io/s/github/gogaille/job/tree/main/frontend-technical-interview
+
+Quand vous aurez terminé, il suffit de nous partager un lien de votre projet CodeSandbox (boutton "Share" bleu en haut à droite de l'interface).
