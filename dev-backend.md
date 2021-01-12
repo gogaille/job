@@ -23,6 +23,18 @@ Nous recherchons une personne qui désire : 
 - Nous recherchons des pépites qui participeront au développement de l’entreprise et apporteront leurs compétences et créativité dans un environnement de transmission. 
 - Un environnement de travail convivial au sein d’une structure jeune et dynamique. 
 
+## Profil recherché
+
+- À l'aise avec PHP au quotidien.
+- Connaissance et principes de fonctionnement des framework PHP modernes.
+- Sensibilisé à la qualité du code. Notre devise : Un code non testé et un code qui n'existe pas.
+- Convaincu (ou même mieux, formé !) que le [DDD](https://fr.wikipedia.org/wiki/Conception_pilot%C3%A9e_par_le_domaine) n'est pas juste un buzzword.
+- Capable de passer 20 min de brainstorming pour trouver le nom d'un value object de 20 lignes.
+- Préfère supprimer du code que d'en écrire.
+- Expérience : Peu importe tant que vous êtes à l'aise avec les points ci-dessus
+- Salaire : entre 40k€ et 45k€
+
+:triangular_flag_on_post: On ne vous demande pas de connaître tout ce qui suit mais vous voyez évoluer et progresser dedans.
 
 ## Descriptif du poste
 
@@ -101,17 +113,6 @@ Historiquement, la majeure partie de l'équipe est à Bordeaux. 2 fondateurs son
 L'équipe tech, elle, est actuellement localisée sur Marseille mais un recrutement en télétravail est tout à fait envisageable.
 
 Il resterait sympa cependant de pouvoir nous rencontrer de temps en temps en vrai ! Pour parler boulot et autre.
-
-## Profil recherché
-
-- À l'aise avec PHP au quotidien.
-- Connaissance et principes de fonctionnement des framework PHP modernes.
-- Sensibilisé à la qualité du code. Notre devise : Un code non testé et un code qui n'existe pas.
-- Convaincu (ou même mieux, formé !) que le [DDD](https://fr.wikipedia.org/wiki/Conception_pilot%C3%A9e_par_le_domaine) n'est pas juste un buzzword.
-- Capable de passer 20 min de brainstorming pour trouver le nom d'un value object de 20 lignes.
-- Préfère supprimer du code que d'en écrire.
-- Salaire : entre 40k€ et 45k€
-
 
 ## Ton quotidien
 
