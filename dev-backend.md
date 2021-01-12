@@ -27,7 +27,7 @@ Nous recherchons une personne qui désire : 
 
 - À l'aise avec PHP au quotidien.
 - Connaissance et principes de fonctionnement des framework PHP modernes.
-- Sensibilisé à la qualité du code. Notre devise : Un code non testé et un code qui n'existe pas.
+- Sensibilisé à la qualité du code. Notre devise : Un code non testé est un code qui n'existe pas.
 - Convaincu (ou même mieux, formé !) que le [DDD](https://fr.wikipedia.org/wiki/Conception_pilot%C3%A9e_par_le_domaine) n'est pas juste un buzzword.
 - Capable de passer 20 min de brainstorming pour trouver le nom d'un value object de 20 lignes.
 - Préfère supprimer du code que d'en écrire.
