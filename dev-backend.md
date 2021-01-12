@@ -1,7 +1,7 @@
 # Développeur backend
 
 
-**[:love_letter: Je postule !](mailto:tech-job@french-hospitality.fr?subject=je%20souhaite%20être%20votre%20prochain%20développeur%20backend%20!&body=Bonjour,%0A%0Aje%20m%27appelle%20%5BMonNom%5D%20et%20je%20vous%20communique%20mon%20cv%20ou%20profil%20linkedin%20%3A)**
+**[:love_letter: Je recrute !](mailto:bastienrulat@gmail.com?subject=je%20souhaite%20vous%20recuter%20en%20tant%20que%20développeur%20backend%20!&body=Bonjour,%0A%0AVoilà%20une%20bien%20atypique%20canditaure%20!**
 
 ## À propos
 
