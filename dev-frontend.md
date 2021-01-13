@@ -28,7 +28,7 @@ Nous recherchons une personne qui désire :
 ## Profil recherché
 
 - 🎨 À l'aise avec le CSS au quotidien.
-- 💯 Maîtrise des fondamentaux du JavaScript et du DOM (rien avoir avec les DOM-TOM)
+- 💯 Maîtrise des fondamentaux du JavaScript et du DOM (rien à voir avec les DOM-TOM)
 - 👌 Prêt à te former sur React et styled-components si ce n'est pas déjà le cas.
 - 🔬 Attentif à la qualité des interfaces et des interactions.
 - 🟢 Sensible à la qualité du code. Notre devise : Un code non testé et un code qui n'existe pas.
