@@ -25,6 +25,19 @@ Nous recherchons une personne qui désire :
 - Nous recherchons des pépites qui participeront au développement de l’entreprise et apporteront leurs compétences et créativité dans un environnement de transmission.
 - Un environnement de travail convivial au sein d’une structure jeune et dynamique.
 
+
+## Profil recherché
+
+- À l'aise du CSS au quotidien.
+- Formé au base du JavaScript et le DOM
+- Prêt à se former sur React et styled-components si ce n'est pas déjà le cas.
+- Attentif à la qualité des interfaces et des intéractions.
+- Sensibilisé à la qualité du code. Notre devise : Un code non testé et un code qui n'existe pas.
+- Capable de passer 20 min de brainstorming pour trouver le nom d'un composant de 10 lignes.
+- Salaire : entre 30k€ et 35k€
+
+:triangular_flag_on_post: On ne vous demande pas de connaître tout ce qui suit mais vous vous voyez évoluer et progresser dedans.
+
 ## Descriptif du poste
 
 ### :mag: Notre mission
@@ -89,15 +102,6 @@ Nous introduisons la technologie là où elle n'existait pas encore. Bien souven
 - 1 CTO multi tâche avec +15 ans d'expérience.
 - 1 développeur backend très orienté Symfony avec +15 ans d'expérience.
 - 1 développeur fullstack qui avoue préférer le javascript avec +10 ans d'expérience.
-
-## Profil recherché
-
-- À l'aise avec JS et CSS au quotidien.
-- Prêt à se former sur React et styled-components si ce n'est pas déjà le cas.
-- Attentif à la qualité des interfaces et des intéractions.
-- Sensibilisé à la qualité du code. Notre devise : Un code non testé et un code qui n'existe pas.
-- Capable de passer 20 min de brainstorming pour trouver le nom d'un composant de 10 lignes.
-- Salaire : entre 30k€ et 35k€
 
 ## Ton quotidien
 
