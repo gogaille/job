@@ -9,7 +9,7 @@ labels: array, string, typage, validation
 
 # Entretien technique pour développeur backend php
 
-:point_right: L'objectif de ces exercices est de te confronter au poste de développeur fontend React, à des cas d'usages / bugs usuels dans un environement simplifé.
+:point_right: L'objectif de ces exercices est de te confronter au poste de développeur backend php, à des cas d'usages / bugs usuels dans un environement simplifé.
 
 :hourglass: On estime entre une et deux heures le temps nécessaire pour réaliser tous les excercices. Cela comprend le temps nécessaire de découverte de l'application. Il ne sera pas toujours demandé de réaliser l'ensemble des exercices, suivez bien les consignes :wink: !
 ## :100: Évaluation
@@ -28,7 +28,7 @@ Au delà d'arriver à résoudre l'exercice, tu seras évalué sur les points sui
 Il te faut bien évidemment php (dans un conteneur docker, installé en local sur votre machine, dans un éditeur en ligne).
 
 
-:point_right: Quand tu as terminé, prends rendez-vous pour débriefer de votre test technique. Il te sera demandé de partager l'url d'un dépôt github publique (ou même un lien [3v4l](https://3v4l.org/)) à toi de voir :wink:
+:point_right: Quand tu as terminé, prends rendez-vous pour débriefer de ton test technique. Il te sera demandé de partager l'url d'un dépôt github publique (ou même un gist ou un lien [3v4l](https://3v4l.org/) à toi de voir :wink:).
 
 [![Prendre rendez-vous pour débriefer du test](https://shields.io/badge/bloquer%20une%20date-pour%20debriefer-blue?labelColor=%23f3f3f3&logo=google-calendar&style=for-the-badge)](https://calendly.com/sebastien-houze/debrief-test-technique
 )
