@@ -59,24 +59,7 @@ function andTheWinnerIs(array $board): string
 }
 ```
 
-### Exercice 2 (niveau 2): :bikini: tac toe en string
-
-Faire évoluer la fonction pour qu'elle accepte soit un tableau php (comme dans l'exercice 1) soit une chaîne de caractère pour représenter la grille.
-Un indice: si vous utilisez php8, montrez que vous maîtrisez les dernières évolutions :wink:.
-
-
-```
-X O X
-O X O
-O O O
-```
-
-
-### Exercice 3 (niveau 3): :exploding_head: entre dans la matrice
-
-Effectuer une mise à jour afin d'être en mesure d'évaluer des grilles de taille `N x N`, avec `N >= 3`.
-
-## :point_right: Exemples
+#### :point_right: Exemples
 
 ```php
 <?php
@@ -107,6 +90,23 @@ echo andTheWinnerIs(
 );
 "Tie"
 ```
+
+### Exercice 2 (niveau 2): :bikini: tac toe en string
+
+Faire évoluer la fonction pour qu'elle accepte soit un tableau php (comme dans l'exercice 1) soit une chaîne de caractère pour représenter la grille.
+Un indice: si vous utilisez php8, montrez que vous maîtrisez les dernières évolutions :wink:.
+
+
+```
+X O X
+O X O
+O O O
+```
+
+
+### Exercice 3 (niveau 3): :exploding_head: entre dans la matrice
+
+Effectuer une mise à jour afin d'être en mesure d'évaluer des grilles de taille `N x N`, avec `N >= 3`.
 
 ### Exercice 4 (niveau 4): :bomb: incassable
 
