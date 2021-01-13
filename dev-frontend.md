@@ -25,6 +25,19 @@ Nous recherchons une personne qui désire :
 - Nous recherchons des pépites qui participeront au développement de l’entreprise et apporteront leurs compétences et créativité dans un environnement de transmission.
 - Un environnement de travail convivial au sein d’une structure jeune et dynamique.
 
+
+## Profil recherché
+
+- 🎨 À l'aise avec le CSS au quotidien.
+- 💯 Formé au base du JavaScript et du DOM (rien avoir avec les DOM-TOM)
+- 👌 Prêt à te former sur React et styled-components si ce n'est pas déjà le cas.
+- 🔬 Attentif à la qualité des interfaces et des interactions.
+- 🟢 Sensible à la qualité du code. Notre devise : Un code non testé et un code qui n'existe pas.
+- 🤯 Capable de passer 20 min de brainstorming pour trouver le nom d'un composant de 10 lignes.
+- 💰 Salaire : entre 30k€ et 35k€
+
+:triangular_flag_on_post: On ne vous demande pas de connaître tout ce qui suit mais vous vous voyez évoluer et progresser dedans.
+
 ## Descriptif du poste
 
 ### :mag: Notre mission
@@ -90,15 +103,6 @@ Nous introduisons la technologie là où elle n'existait pas encore. Bien souven
 - 1 développeur backend très orienté Symfony avec +15 ans d'expérience.
 - 1 développeur fullstack qui avoue préférer le javascript avec +10 ans d'expérience.
 
-## Profil recherché
-
-- À l'aise avec JS et CSS au quotidien.
-- Prêt à se former sur React et styled-components si ce n'est pas déjà le cas.
-- Attentif à la qualité des interfaces et des intéractions.
-- Sensibilisé à la qualité du code. Notre devise : Un code non testé et un code qui n'existe pas.
-- Capable de passer 20 min de brainstorming pour trouver le nom d'un composant de 10 lignes.
-- Salaire : entre 30k€ et 35k€
-
 ## Ton quotidien
 
 ### Analyse
@@ -124,4 +128,3 @@ Nous introduisons la technologie là où elle n'existait pas encore. Bien souven
 - Maintenir et faire évoluer les applications.
 
 **[:love_letter: Je postule !](mailto:tech-job@french-hospitality.fr?subject=je%20souhaite%20être%20votre%20prochain%20développeur%20frontend%20!&body=Bonjour,%0A%0Aje%20m%27appelle%20%5BMonNom%5D%20et%20je%20vous%20communique%20mon%20cv%20ou%20profil%20linkedin%20%3A)**
-
