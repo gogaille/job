@@ -1,7 +1,6 @@
 # Développeur frontend
 
-
-**[:love_letter: Je postule !](mailto:tech-job@french-hospitality.fr?subject=je%20souhaite%20être%20votre%20prochain%20développeur%20frontend%20!&body=Bonjour,%0A%0Aje%20m%27appelle%20%5BMonNom%5D%20et%20je%20vous%20communique%20mon%20cv%20ou%20profil%20linkedin%20%3A)**
+[![Je postule !](https://shields.io/badge/nous%20ecrire-je%20postule%20%21-blue?labelColor=%23f3f3f3&logoColor=blue&logo=ProtonMail&style=for-the-badge)](mailto:tech-job@french-hospitality.fr?subject=je%20souhaite%20être%20votre%20prochain%20développeur%20frontend%20!&body=Bonjour,%0A%0Aje%20m%27appelle%20%5BMonNom%5D%20et%20je%20vous%20communique%20mon%20cv%20ou%20profil%20linkedin%20%3A)
 
 ## À propos
 
@@ -127,4 +126,4 @@ Nous introduisons la technologie là où elle n'existait pas encore. Bien souven
 - Respecter et faire évoluer les processus qualité dans un principe d'amélioration continue.
 - Maintenir et faire évoluer les applications.
 
-**[:love_letter: Je postule !](mailto:tech-job@french-hospitality.fr?subject=je%20souhaite%20être%20votre%20prochain%20développeur%20frontend%20!&body=Bonjour,%0A%0Aje%20m%27appelle%20%5BMonNom%5D%20et%20je%20vous%20communique%20mon%20cv%20ou%20profil%20linkedin%20%3A)**
+[![Je postule !](https://shields.io/badge/nous%20ecrire-je%20postule%20%21-blue?labelColor=%23f3f3f3&logoColor=blue&logo=ProtonMail&style=for-the-badge)](mailto:tech-job@french-hospitality.fr?subject=je%20souhaite%20être%20votre%20prochain%20développeur%20frontend%20!&body=Bonjour,%0A%0Aje%20m%27appelle%20%5BMonNom%5D%20et%20je%20vous%20communique%20mon%20cv%20ou%20profil%20linkedin%20%3A)
