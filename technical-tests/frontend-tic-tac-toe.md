@@ -64,7 +64,7 @@ Ajouter en dessous du plateau de jeu un boutton permettant de recommencer une pa
 Lorsque toutes les cases du plateau de jeu sont remplies:
 
 - soit l'un des deux joueurs a gagné,
-- soit c'est c'est match nul.
+- soit c'est un match nul.
 
 Modifier l'application pour afficher le message "_C'est un match nul! Une autre partie ?_" en dessous du plateau de jeu en cas d'égalité.
 
