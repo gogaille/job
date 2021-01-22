@@ -11,12 +11,12 @@ labels: style, hooks, algorithmie, fonctionnalité
 
 :point_right: L'objectif de ces exercices est de te confronter au poste de développeur fontend React, à des cas d'usages / bugs usuels dans un environement simplifé.
 
-:hourglass: On estime entre une et deux heures le temps nécessaire pour réaliser tous les excercices. Cela comprend le temps nécessaire de découverte de l'application. Il ne sera pas toujours demandé de réaliser l'ensemble des exercices, suis bien les consignes :wink: !
+:hourglass: On estime entre une et deux heures le temps nécessaire pour réaliser tous les excercices. Cela comprend le temps nécessaire de découverte de l'application. Il ne sera pas toujours demandé de réaliser l'ensemble des exercices, suis bien les consignes :wink: ! Dans le cas où tu n'arrive pas réaliser tous les exercices cela ne veut pas dire que tu ne corresponds pas au poste. Dans tous les cas, nous discuterons du rendu afin de comprendre ton approche.
 
 ## :100: Évaluation
 
 Au delà d'arriver à résoudre l'exercice, tu seras évalué sur les points suivants :
- 1. Questions posées et pertinence des questions avant de commencer l'exercice, dans la limite de 3 questions ;
+ 1. Questions posées et pertinence des questions _avant de commencer l'exercice_, dans la limite de 3 questions ;
  2. Compréhension de l'énoncé ;
  3. Qualité du code :
      - Lisibilité ;
@@ -45,19 +45,19 @@ Le joueur utilisant les pions :x: commence toujours.
 
 ## :nerd_face: Exercices
 
-Les exercices peuvent tous être résolus indépendamment les uns des autres. L'ordre proposé permer de découvrir progressivement l'application.
+Les exercices peuvent tous être résolus indépendamment les uns des autres. L'ordre proposé permer de découvrir progressivement l'application. N'oublie pas que tu peut poser des questions avant de commencer les exercices.
 
-Dans la section [Comment réaliser ces exercices ?](#Comment+raliser+ces+exercices+%3F), tu trouveras de l'aide pour démarrer les exercices.
+Dans la section _Comment réaliser ces exercices ?_, tu trouveras de l'aide pour mettre en oeuvre l'environement de travail du projet.
 
 ### Exercice 1 (niveau 1) : 🎨 Le style c'est la vie
 
 Mettre en évidence la case survolée par le joueur en cours. Lorsqu'il survole une case changer la couleur du fond de la case par `#3E5770`.
 
-Mais attention, uniquement lorsque qu'une partie est en cours !
+Mais attention, uniquement sur les cases qui n'ont pas déjà été joué !
 
 ### Exercice 2 (niveau 2) : ♻ Et si on rejouait ?
 
-Ajouter en dessous du plateau de jeu un boutton permettant de recommencer une partie sans avoir à rafraîchir la page.
+Ajouter en dessous du plateau de jeu un boutton permettant de recommencer une partie sans avoir à rafraîchir la page. On a bien dit : _sans rafraichir la page_.
 
 ### Exercice 3 (niveau 2) : ♟ Echec et mat... ou pas
 
