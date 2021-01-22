@@ -53,7 +53,7 @@ Dans la section _Comment réaliser ces exercices ?_, tu trouveras de l'aide pour
 
 Mettre en évidence la case survolée par le joueur en cours. Lorsqu'il survole une case changer la couleur du fond de la case par `#3E5770`.
 
-Mais attention, uniquement sur les cases qui n'ont pas déjà été jouées !
+Mais attention, uniquement sur les cases qui n'ont pas déjà été jouées et lorsque qu'une partie est en cours !
 
 ### Exercice 2 (niveau 2) : ♻ Et si on rejouait ?
 
