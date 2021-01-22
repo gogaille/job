@@ -11,12 +11,12 @@ labels: style, hooks, algorithmie, fonctionnalité
 
 :point_right: L'objectif de ces exercices est de te confronter au poste de développeur fontend React, à des cas d'usages / bugs usuels dans un environement simplifé.
 
-:hourglass: On estime entre une et deux heures le temps nécessaire pour réaliser tous les excercices. Cela comprend le temps nécessaire de découverte de l'application. Il ne sera pas toujours demandé de réaliser l'ensemble des exercices, suis bien les consignes :wink: ! Dans le cas où tu n'arrive pas réaliser tous les exercices cela ne veut pas dire que tu ne corresponds pas au poste. Dans tous les cas, nous discuterons du rendu afin de comprendre ton approche.
+:hourglass: On estime entre une et deux heures le temps nécessaire pour réaliser tous les excercices. Cela comprend le temps nécessaire de découverte de l'application. Il ne sera pas toujours demandé de réaliser l'ensemble des exercices, suis bien les consignes :wink: ! Dans le cas où tu n'arrives pas réaliser tous les exercices cela ne veut pas dire que tu ne corresponds pas au poste. Dans tous les cas, nous discuterons du rendu afin de comprendre ton approche.
 
 ## :100: Évaluation
 
 Au delà d'arriver à résoudre l'exercice, tu seras évalué sur les points suivants :
- 1. Questions posées et pertinence des questions _avant de commencer l'exercice_, dans la limite de 3 questions ;
+ 1. :question: :question: :question:  Questions posées et pertinence des questions _avant de commencer l'exercice_, dans la limite de 3 questions ;
  2. Compréhension de l'énoncé ;
  3. Qualité du code :
      - Lisibilité ;
@@ -53,7 +53,7 @@ Dans la section _Comment réaliser ces exercices ?_, tu trouveras de l'aide pour
 
 Mettre en évidence la case survolée par le joueur en cours. Lorsqu'il survole une case changer la couleur du fond de la case par `#3E5770`.
 
-Mais attention, uniquement sur les cases qui n'ont pas déjà été joué !
+Mais attention, uniquement sur les cases qui n'ont pas déjà été jouées !
 
 ### Exercice 2 (niveau 2) : ♻ Et si on rejouait ?
 
