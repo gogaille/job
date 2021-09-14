@@ -6,7 +6,7 @@
 
 ### :family: Qui sommes-nous ?
 
-[FRENCH HOSPITALITY](https://french-hospitality.fr/) c’est la rencontre de 5 entrepreneurs qui ont croisé leurs expertises dans l’hôtellerie et le service afin de proposer des solutions de gestion et de conseil pour des tiers dans le secteur de l’hospitalité : hébergement et métiers de bouche.
+[Gogaille](https://gogaille.fr/) c’est la rencontre de 5 entrepreneurs qui ont croisé leurs expertises dans l’hôtellerie et le service afin de proposer des solutions de gestion et de conseil pour des tiers dans le secteur de l’hospitalité : hébergement et métiers de bouche.
 
 L’entreprise en pleine croissance repense l’hospitalité traditionnelle en développant une nouvelle marque alliant convivialité et innovation dans les cœurs de ville. Ces refuges urbains, au rond-point des terroirs, sont des lieux de rencontre à l’atmosphère authentique.
 
