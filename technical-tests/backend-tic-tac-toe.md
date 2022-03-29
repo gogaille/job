@@ -30,7 +30,7 @@ Il te faut bien évidemment php (dans un conteneur docker, installé en local su
 
 :point_right: Quand tu as terminé, prends rendez-vous pour débriefer de ton test technique. Il te sera demandé de partager l'url d'un dépôt github publique (ou même un gist ou un lien [3v4l](https://3v4l.org/) à toi de voir :wink:).
 
-[![Prendre rendez-vous pour débriefer du test](https://shields.io/badge/bloquer%20une%20date-pour%20debriefer-blue?labelColor=%23f3f3f3&logo=google-calendar&style=for-the-badge)](https://calendly.com/sebastien-houze/debrief-test-technique
+[![Prendre rendez-vous pour débriefer du test](https://shields.io/badge/bloquer%20une%20date-pour%20debriefer-blue?labelColor=%23f3f3f3&logo=google-calendar&style=for-the-badge)](https://calendly.com/sebastien-houze-1/debrief-test-technique
 )
 
 ## Les règles du TicTacToe
