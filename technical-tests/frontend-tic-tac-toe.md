@@ -33,7 +33,7 @@ Pour realiser ces exercices, tu dois forker le code source présent sur CodeSand
 
 :point_right: Quand tu as terminé, prends rendez-vous pour débriefer de ton test technique. Il te sera demandé de partager l'url de ton projet CodeSandbox (boutton "Share" bleu en haut à droite de l'interface).
 
-[![Prendre rendez-vous pour débriefer du test](https://shields.io/badge/bloquer%20une%20date-pour%20debriefer-blue?labelColor=%23f3f3f3&logo=google-calendar&style=for-the-badge)](https://calendly.com/sebastien-houze/debrief-test-technique
+[![Prendre rendez-vous pour débriefer du test](https://shields.io/badge/bloquer%20une%20date-pour%20debriefer-blue?labelColor=%23f3f3f3&logo=google-calendar&style=for-the-badge)](https://calendly.com/sebastien-houze-1/debrief-test-technique
 )
 
 
